@@ -118,7 +118,8 @@ print("The highest rank cosine score is:",
 ```
 ### Output:
 
-<img width="455" height="533" alt="image" src="https://github.com/user-attachments/assets/6b7ea67f-18da-4389-b332-0edec2b90d30" />
+<img width="440" height="532" alt="image" src="https://github.com/user-attachments/assets/3cd33b96-5297-4853-8312-632c11be80d8" />
+
 
 ### Result:
 
